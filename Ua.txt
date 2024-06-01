@@ -1,1 +1,1 @@
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.5563.115 Safari/537.36
+"vivo 1906", "vivo 1920", "vivo 1906", "vivo 1951", "vivo 1935", "V2058", "vivo 1808", "vivo 1716", "V2026", "V2132"

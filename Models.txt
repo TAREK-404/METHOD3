@@ -1,1 +1,7 @@
-"Nokia C20 Plus","Nokia C3","Nokia C1","Nokia XR21","Nokia X30 5G","Nokia C21","Nokia G310"
+"Nokia C20 Plus",
+"Nokia C3",
+"Nokia C1",
+"Nokia XR21",
+"Nokia X30 5G",
+"Nokia C21",
+"Nokia G310"
